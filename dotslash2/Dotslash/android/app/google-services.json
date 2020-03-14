@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756733322152",
+    "firebase_url": "https://jobs2-2368c.firebaseio.com",
+    "project_id": "jobs2-2368c",
+    "storage_bucket": "jobs2-2368c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756733322152:android:babcd212465eb1a1efb39d",
+        "android_client_info": {
+          "package_name": "com.purple.jobs2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756733322152-al3988s787tklj0vlglrsf8ijdofasmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbNQpJk3FiJX0esOJ7-fLqRjujaVksm8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756733322152-al3988s787tklj0vlglrsf8ijdofasmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
