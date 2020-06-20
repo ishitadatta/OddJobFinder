@@ -12,7 +12,7 @@ To provide a simple yet detailed user – interface that
 * Firebase
 
 ## Unique Features
-* The app serves 3 purposes
+The app serves 3 main purposes
 * Unlike an agency, using the app to find a service will charge you nothing
 * The app provides further specifications like age requirement/eligibility or experience requirement/eligibility
 * It creates a mini social network and makes your persons of interest more easy to come into contact with
